@@ -1,108 +1,134 @@
-<!-- Stylish, Job-Oriented & Futuristic GitHub Profile README -->
+<!-- Stylish, Job-Oriented & Futuristic README by KumudRanjan -->
 
-<!-- Header Section with Gradient & Animation -->
-<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2, #6b8dd6); padding: 40px; border-radius: 10px; margin-bottom: 20px;">
-  <h1 style="color: #fff; font-family: 'Courier New', monospace; margin-bottom: 10px;">Hello, I'm KumudRanjan 👋</h1>
-  <p style="color: #eee; font-size: 1.2rem;">
-    Innovative Full-Stack & Cloud Developer | Tech Enthusiast | Creative Soul 🚀
+<!-- ===== Gradient Header with Animation ===== -->
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2, #6b8dd6); padding: 40px; border-radius: 12px; margin-bottom: 30px;">
+  <h1 style="color: #fff; font-family: 'Courier New', monospace; font-size: 2.8rem; margin-bottom: 10px;">
+    Hello, I'm KumudRanjan 👋
+  </h1>
+  <p style="color: #eee; font-size: 1.4rem; margin-bottom: 20px;">
+    Innovative Web Developer | Java & Cloud Enthusiast | Tech Collaborator 🚀
   </p>
-  <img src="https://media.giphy.com/media/MVvZIIEl1UW1OJp0Pl/giphy.gif" alt="Futuristic Animation" style="max-width: 100%; border-radius: 10px; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/MVvZIIEl1UW1OJp0Pl/giphy.gif" alt="Futuristic Animation" style="max-width: 100%; border-radius: 12px;">
 </div>
 
-<!-- About Me Section -->
-<div style="margin: 0 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">About Me 🧑‍💻</h2>
-  <p style="font-size: 1rem; line-height: 1.6; margin-top: 10px;">
-    I'm <strong>KumudRanjan</strong>, a dedicated and innovative developer merging code with creativity. With expertise in Cloud technologies, the MERN stack, Core Java, Python, and front-end development, I craft digital experiences that are not only visually stunning but also built for performance. When I'm not coding, you'll find me drawing or exploring various creative pursuits.
-  </p>
-</div>
+<!-- ===== About Me ===== -->
+# 💫 About Me:
+<p style="font-size: 1.1rem; line-height: 1.6;">
+  I'm a passionate web developer who has worked on diverse projects including eCommerce, healthcare, coding clubs, and more.  
+  I enjoy collaborating on web development and Java-related projects, and I'm actively expanding my knowledge in the cloud space and DSA using Java.  
+  Feel free to ask me anything about web dev!
+</p>
 
-<!-- Professional Highlights Section -->
-<div style="margin: 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">Professional Highlights 💼</h2>
-  <ul style="font-size: 1rem; line-height: 1.6; margin-top: 10px;">
-    <li>🏆 <strong>Proven Expertise:</strong> Solid background in full-stack development, cloud solutions, and modern web technologies.</li>
-    <li>🚀 <strong>Innovative Projects:</strong> Demonstrated ability to build and deploy cutting-edge web applications.</li>
-    <li>📜 <strong>Certifications:</strong> Core Java Certification (IncApp) & MERN Certification (GeeksforGeeks).</li>
-    <li>🤝 <strong>Collaboration:</strong> Passionate about teaming up on challenging projects and creative tech solutions.</li>
-  </ul>
-</div>
+<!-- ===== Socials ===== -->
+## 🌐 Socials:
+<p align="center" style="font-size: 1.1rem;">
+  <a href="https://linkedin.com/in/kumudkode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@kumudkode" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://x.com/kumudkode" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:raj94971@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<!-- Tech Skills Section -->
-<div style="margin: 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">My Arsenal 🛠️</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Core Java" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Core%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Core Python" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;">
-  </div>
-  <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;">
-    Cloud Skills: <a href="https://www.cloudskillsboost.google/public_profiles/f4a36290-bd30-4dc3-aaaa-4e3ee99a213c" style="color: #667eea; text-decoration: none;">Google Cloud Skills Boost</a>
-  </p>
-</div>
+<!-- ===== Tech Stack ===== -->
+## 💻 Tech Stack:
+<p align="center">
+  ![](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+  ![](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+  ![](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+  ![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+  ![](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+  ![](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+  ![](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+  ![](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+  ![](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+  ![](https://img.shields.io/badge/DaisyUI-5A0EF8?style=plastic&logo=daisyui&logoColor=white)
+  ![](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+  ![](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+  ![](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+  ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+  ![](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+  ![](https://img.shields.io/badge/Next_JS-black?style=plastic&logo=next.js&logoColor=white)
+  ![](https://img.shields.io/badge/NodeJS-6DA55F?style=plastic&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+  ![](https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+  ![](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+  ![](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+  ![](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+  ![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+  ![](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
+  ![](https://img.shields.io/badge/Firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+  ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Adobe_Acrobat_Reader-EC1C24.svg?style=plastic&logo=Adobe_Acrobat_Reader&logoColor=white)
+  ![](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=plastic&logo=Adobe_Lightroom&logoColor=white)
+  ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+  ![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+  ![](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=plastic&logo=adobe_illustrator&logoColor=white)
+  ![](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+  ![](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+  ![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+  ![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+  ![](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+  ![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+  ![](https://img.shields.io/badge/Steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
+  ![](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
+  ![](https://img.shields.io/badge/Riot_Games-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
+  ![](https://img.shields.io/badge/Epic_Games-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
+  ![](https://img.shields.io/badge/EA-%23000000.svg?style=plastic&logo=ea&logoColor=white)
+</p>
 
-<!-- Certifications Section -->
-<div style="margin: 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">Certifications 🎓</h2>
-  <ul style="font-size: 1rem; line-height: 1.6; margin-top: 10px;">
-    <li>✅ Core Java Certification from IncApp</li>
-    <li>✅ MERN Stack Certification from GeeksforGeeks</li>
-  </ul>
-</div>
+<!-- ===== GitHub Stats & Visuals ===== -->
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumudkode&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kumudkode&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumudkode&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
-<!-- Projects & Innovations Section -->
-<div style="margin: 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">Projects & Innovations 💡</h2>
-  <p style="margin-top: 10px; font-size: 1rem; line-height: 1.6;">
-    I love blending modern design with cutting-edge technology. Explore my projects that showcase elegant web solutions and creative experiments:
-  </p>
-  <ul style="font-size: 1rem; line-height: 1.6;">
-    <li>🌐 <a href="https://github.com/kumudkode/Complete-Web" style="color: #667eea; text-decoration: none;">Complete-Web</a> - A deep dive into modern web development techniques.</li>
-    <li>🚀 Plus, many more innovative experiments waiting to be explored!</li>
-  </ul>
-  <div align="center" style="margin: 20px 0;">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Projects Animation" width="300" style="border-radius: 10px;">
-  </div>
-</div>
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kumudkode&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-<!-- Beyond Code / Creative Life Section -->
-<div style="margin: 20px;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">Beyond Code 🎨</h2>
-  <p style="font-size: 1rem; line-height: 1.6; margin-top: 10px;">
-    Creativity fuels my innovation. When I'm not coding, I'm drawing, experimenting with digital art, and seeking inspiration in the world around me.
-  </p>
-</div>
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-<!-- Recruiter Call-to-Action Section -->
-<div style="margin: 20px; border: 2px dashed #667eea; padding: 20px; border-radius: 10px; background-color: #f9f9f9;">
-  <h2 style="color: #764ba2; text-align: center;">Hire Me! 💼</h2>
-  <p style="font-size: 1rem; line-height: 1.6; text-align: center;">
-    I'm actively seeking new opportunities to bring innovative ideas to life. Let's collaborate on groundbreaking projects or discuss potential opportunities! <br>
-    <strong>Email me at:</strong> <a href="mailto:your.email@example.com" style="color: #667eea;">your.email@example.com</a>
-  </p>
-</div>
+### 🔝 Top Contributed Repo:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kumudkode&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
 
-<!-- Social & Connect Section -->
-<div style="margin: 20px; text-align: center;">
-  <h2 style="color: #764ba2; border-bottom: 2px solid #667eea; display: inline-block; padding-bottom: 5px;">Let's Connect 🤝</h2>
-  <p style="font-size: 1rem; line-height: 1.6; margin: 15px 0;">
-    I'm always excited to chat about futuristic tech, art, and innovation. Reach out anytime!
-  </p>
-  <p>
-    <a href="https://github.com/kumudkode" style="background-color: #667eea; color: #fff; padding: 10px 20px; border-radius: 25px; text-decoration: none; margin: 5px;">GitHub</a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/f4a36290-bd30-4dc3-aaaa-4e3ee99a213c" style="background-color: #764ba2; color: #fff; padding: 10px 20px; border-radius: 25px; text-decoration: none; margin: 5px;">Cloud Skills</a>
-    <a href="https://buymeacoffee.com/kumudkode" style="background-color: #ff9900; color: #fff; padding: 10px 20px; border-radius: 25px; text-decoration: none; margin: 5px;">Buy Me a Coffee</a>
-  </p>
-</div>
+<!-- ===== Visit Count ===== -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kumudkode&icon=0&color=1" alt="Visitor Count" />
+</p>
 
-<!-- Footer -->
-<div style="margin-top: 40px; text-align: center; font-size: 0.9rem; color: #555;">
-  <p>Crafted with passion and futuristic vibes by KumudRanjan | Let's code the future together! ✨</p>
-</div>
+<!-- ===== Donate ===== -->
+## 💰 Support My Work:
+<p align="center">
+  <a href="https://buymeacoffee.com/Kumudkode" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<!-- ===== Footer ===== -->
+<br>
+<p align="center" style="font-size: 0.9rem; color: #888;">
+  Proudly created with ❤️ using <a href="https://gprm.itsvg.in" target="_blank" style="color: #667eea; text-decoration: none;">GPRM</a>
+</p>
