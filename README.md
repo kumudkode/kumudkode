@@ -9,7 +9,7 @@
 <h1 align="center">Hello, World! 🌐✨</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MVvZIIEl1UW1OJp0Pl/giphy.gif" alt="Welcome Animation" width="400">
+  <img src="[https://media.giphy.com/media/MVvZIIEl1UW1OJp0Pl/giphy.gif](https://giphy.com/gifs/pudgypenguins-ai-agent-grok-8m7nAJTYvzNUh54HQm)" alt="Welcome Animation" width="400">
 </div>
 
 ## About Me
