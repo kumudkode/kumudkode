@@ -5,13 +5,10 @@
 <br clear="both">
 
 <div align="left">
-![My GitHub Pixel Character]()
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
+<p>My GitHub Pixel Character</p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph-dark.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg"> -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
 </picture>
 </div>
 
