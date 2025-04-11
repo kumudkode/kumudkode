@@ -4,6 +4,10 @@
 
 <br clear="both">
 
+<div align="center">
+  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHprcG12ZG1oeG93cDVuZ3d1N3ZlM3NkemZ4ejkxbDNsdjQ5MThweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif"  />
+</div>
+
 ###
 
 <br clear="both">
@@ -11,14 +15,14 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kumudkode&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumudkode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kumudkode&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=24" height="144" alt="streak graph">
+  <img src="https://streak-stats.demolab.com?user=kumudkode&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=24" height="144" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="180" src="https://media.giphy.com/media/EhrOeJZDgdREHTJxcQ/giphy.gif?cid=ecf05e4707lv50guqjjvpr7agktieb3i23iee4n3yrlkqmnl&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" height="180" src="https://media.giphy.com/media/EhrOeJZDgdREHTJxcQ/giphy.gif?cid=ecf05e4707lv50guqjjvpr7agktieb3i23iee4n3yrlkqmnl&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -155,12 +159,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph-dark.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg"> -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="left">𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹!!<br>𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒</p>
 
@@ -181,5 +186,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
+💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kumudkode) 
 
 ###
