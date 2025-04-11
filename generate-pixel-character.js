@@ -8,24 +8,17 @@ fs.ensureDirSync('dist');
 // GitHub API URL to get user stats
 const username = 'kumudkode';
 const apiUrl = `https://api.github.com/users/${username}`;
-const contributionsUrl = `https://github.com/users/${username}/contributions`;
 
 async function generatePixelCharacter() {
   try {
-    // Get GitHub user data
+    // Get GitHub user data - fix the authentication
     const response = await axios.get(apiUrl, {
       headers: { 
-        'Authorization': `token ${process.env.GITHUB_TOKEN}`,
         'Accept': 'application/vnd.github.v3+json'
       }
     });
     
     const userData = response.data;
-    
-    // Get contributions data from GitHub contributions graph
-    const contributionsResponse = await axios.get(contributionsUrl, {
-      headers: { 'Accept': 'application/json' }
-    });
     
     // Create a canvas for the pixel character
     const canvas = createCanvas(400, 400);
