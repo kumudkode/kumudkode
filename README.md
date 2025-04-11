@@ -4,15 +4,6 @@
 
 <br clear="both">
 
-<div align="left">
-<p>My GitHub Pixel Character</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
-  <img alt="My GitHub Pixel Character" src="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
-</picture>
-</div>
-
 ###
 
 <br clear="both">
