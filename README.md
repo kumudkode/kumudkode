@@ -5,7 +5,14 @@
 <br clear="both">
 
 <div align="left">
-  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHprcG12ZG1oeG93cDVuZ3d1N3ZlM3NkemZ4ejkxbDNsdjQ5MThweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif"  />
+![My GitHub Pixel Character]()
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/kumudkode/kumudkode/blob/output/pixel-character.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph-dark.svg">
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg"> -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 ###
