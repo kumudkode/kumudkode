@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHprcG12ZG1oeG93cDVuZ3d1N3ZlM3NkemZ4ejkxbDNsdjQ5MThweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif"  />
 </div>
 
@@ -164,8 +164,10 @@
 </picture>
 
 ###
+<div align="left">
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 <p align="left">𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹!!<br>𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒</p>
 
@@ -187,6 +189,6 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kumudkode) 
+  ![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kumudkode) 
 
 ###
