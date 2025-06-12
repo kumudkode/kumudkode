@@ -156,8 +156,6 @@
 </div>
 
 ###
-[![An image of @kumudkode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumudkode)](https://holopin.io/@kumudkode)
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumudkode/kumudkode/output/pacman-contribution-graph-dark.svg">
